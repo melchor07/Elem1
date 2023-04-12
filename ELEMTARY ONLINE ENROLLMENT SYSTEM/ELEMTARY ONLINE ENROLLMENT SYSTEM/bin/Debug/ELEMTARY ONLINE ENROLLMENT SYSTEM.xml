@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ELEMTARY ONLINE ENROLLMENT SYSTEM
+</name>
+</assembly>
+<members>
+<member name="T:ELEMTARY_ONLINE_ENROLLMENT_SYSTEM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ELEMTARY_ONLINE_ENROLLMENT_SYSTEM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ELEMTARY_ONLINE_ENROLLMENT_SYSTEM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ELEMTARY_ONLINE_ENROLLMENT_SYSTEM.My.Resources.Resources._387_3873440_national_primary_school_teacher_clip_art_elementary_school">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
